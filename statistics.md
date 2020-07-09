@@ -1,10 +1,17 @@
 # Statistics
 
+- [ ] Standard deviation
+- [ ] variance
 - [ ] Quantiles [[quantiles]]
 - [ ] Distributions [[distributions]]
+- [ ] Confidence intervals
+  - [ ] Normal
 - [ ] Null hypothesis [[null_hypothesis]]
+- [ ] Dependent samples t-test
+- [ ] Independent samples t-test
 - [ ] Non parametric Test
   - [ ] Wilcoxon test ()[https://www.investopedia.com/terms/w/wilcoxon-test.asp#:~:text=The%20Wilcoxon%20test%20is%20a,in%20a%20statistically%20significant%20manner] 
+  - [ ] Mann Whitney U test
   - [ ] Parametric test
     - [ ] T-test
       -  T test is a type of inferential Statistics used to determine if there is a significant difference between the means of two groups, which maybe related in certain features
