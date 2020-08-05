@@ -11,8 +11,13 @@
         - [ ] Nodes that have a lot of links control the graphs, they are called hinge nodes
       - [ ] Clustering effect
         - [ ] Groups have sub groups where all the nodes are linked to each other
-      - [ ] Graph distance
-        - [ ] Similarity Metrics
-        - [ ] Small world effect used rather than Djikstra algorithm for graphs with millions of nodes
-        - [ ] 
+      - [ ] Similarity Metrics
+        - [ ] Graph distance
+          - [ ] Small world effect used rather than Djikstra algorithm for graphs with millions of nodes
+        - [ ] Common neighbors
+        - [ ] Jackards coefficient
+          - [ ] Common features
+        - [ ] Adamic/Adar (Frequency weighted Common Neighbors)
+          - [ ] Weighting rare features more heavily than the common ones
+
 
