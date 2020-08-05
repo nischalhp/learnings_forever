@@ -20,4 +20,7 @@
         - [ ] Adamic/Adar (Frequency weighted Common Neighbors)
           - [ ] Weighting rare features more heavily than the common ones
 
+- [ ] Links
+  - [ ] (Link Prediction)[http://be.amazd.com/link-prediction/]
+
 
