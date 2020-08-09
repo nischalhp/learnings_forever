@@ -23,4 +23,7 @@
 - [ ] Links
   - [ ] (Link Prediction)[http://be.amazd.com/link-prediction/]
 
+- [ ] Books
+  - [ ] (Wilson Book)[https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf?utm_source=hillelwayne&utm_medium=email&utm_campaign=how-knowing-math-helps-you-write-better-software]
+
 
