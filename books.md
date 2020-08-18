@@ -13,6 +13,8 @@
   - [ ] Wardley mapping 
     - [ ] Links
       - [ ] (Book by Simon wardley)[https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec] 
+      - [ ] (Video lectures of the book)[https://www.youtube.com/watch?v=DgxdYuIt9-o]
+      - [ ] 
 
 
 
