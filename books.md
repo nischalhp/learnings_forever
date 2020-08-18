@@ -9,6 +9,10 @@
 - [ ] Agility
   - [ ] Rethinking Agile - Klas Leopold
   - [ ] Thining in Systems - Donella H.Meadows
+- [ ] Business strategy
+  - [ ] Wardley mapping 
+    - [ ] Links
+      - [ ] (Book by Simon wardley)[https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec] 
 
 
 
