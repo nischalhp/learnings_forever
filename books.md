@@ -13,6 +13,7 @@
   - [ ] Agility
     - [ ] Rethinking Agile - Klas Leopold
     - [ ] Thining in Systems - Donella H.Meadows
+    - [ ] (Observable)[https://observablehq.com/@troymagennis]
   - [ ] Building Teams
     - [ ] Thinking topologies - Matthew Skelton and Manuel Pais
 
