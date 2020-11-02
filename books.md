@@ -16,6 +16,8 @@
     - [ ] (Observable)[https://observablehq.com/@troymagennis]
   - [ ] Building Teams
     - [ ] Thinking topologies - Matthew Skelton and Manuel Pais
+  - [ ] Good reads
+    - [ ] Steal like an artist - Austin Kleon
 
 
 
